@@ -1,0 +1,41 @@
+
+{
+    "name": "namratha",
+    "email": "gummadinamratha@gmail.com",
+    "addresses": 
+    [
+        {
+            "type": "perm",
+            "addressline1": "mahadevpuram",
+            "addressline2": "nandini"
+        },
+        {
+            "type": "current",
+            "addressline1": "mahadevpuram",
+            "addressline2": "nandini"
+        }
+    ]
+}
+
+
+
+
+// { 
+//     "name": "namratha",
+//     "email": "gummadinamratha@gmail.com",
+//     "addresses":
+//     [
+//         {
+//             "type": "perm",
+//             "addressline1": "mahadevpuram",
+//             "addressline2": "nandini"
+//         },
+        
+//         {
+//             "type": "perm",
+//             "addressline1": "mahadevpuram",
+//             "addressline2": "nandini",
+//         }
+
+//     ]
+// }

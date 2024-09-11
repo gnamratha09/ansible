@@ -1,0 +1,36 @@
+<student>
+    <name>namratha</name>
+    <email>gummadinamratha></email>
+    <addresses>
+        <permaddress>
+            <Addressline1>mahadhevwram</Addressline1>
+            <Addressline2>nandini<Addressline2>
+            <Street>kanuru<Street>
+        <permaddress>
+        <CurrentAdress>
+            <Addressline1>mahadhevwram</Addressline1>
+            <Addressline2>nandini<Addressline2>
+            <Street>kanuru<Street>
+         </CurrentAdress>
+        </Addresses>
+    </Student>
+    <Student>
+        <name>namratha</name>
+        <email>gummadinamratha></email>
+    <addresses>
+        <permaddress>
+            <Addressline1>mahadhevwram</Addressline1>
+            <Addressline2>nandini<Addressline2>
+            <Street>kanuru<Street>
+        <permaddress>
+        <CurrentAdress>
+            <Addressline1>mahadhevwram</Addressline1>
+            <Addressline2>nandini<Addressline2>
+            <Street>kanuru<Street>
+         </CurrentAdress>
+        </Addresses>
+    </Student>
+    <Student>
+
+        
+        

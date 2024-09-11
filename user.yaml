@@ -1,0 +1,43 @@
+
+# # YAML works on indentation, means space
+# - Name: namratha
+#   Email: gummadinamratha@gmail.com
+#   Addresses: #list of address
+#   - type: perm
+#     addressline1: mahadevpuram
+#     addressline2: nandini
+#   - type: current
+#     addressline1: mahadevpuram
+#     addressline2: nandini
+
+# - Name: Ramesh
+#   Email: ramesh@joindevops.com
+#   Addresses: #list of address
+#   - type: perm
+#     addressline1: beml layout
+#     addressline2: marathalli
+#   - type: current
+#     addressline1: beml layout
+#     addressline2: marathalli
+
+
+    - Name: namratha
+      Email: gummadinamratha@gmail.com
+      addresses: 
+      - type: perm
+        addressline1: mahadevpuram
+        addressline2: nandini
+      - type: current
+        addressline1: mahadevpuram
+        addressline2: nandini
+
+        
+    - Name: lalli
+      Email: lalli@gmail.com
+      addresses: 
+      - type: perm
+        addressline1: mahadevpuram
+        addressline2: nandini
+      - type: current
+        addressline1: mahadevpuram
+        addressline2: nandini
